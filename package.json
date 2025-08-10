@@ -1,0 +1,19 @@
+{
+  "name": "complete-javascript-course-master",
+  "version": "1.0.0",
+  "main": "arrow-function.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^22.13.11",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.8.2"
+  }
+}
